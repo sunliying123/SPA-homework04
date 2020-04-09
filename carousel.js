@@ -149,6 +149,4 @@ var $carousel=(function(){
         return{
             show:show
         }
-    var box=$('#box');
-				$carousel.show(box);
 })();
